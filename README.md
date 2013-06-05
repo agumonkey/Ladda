@@ -4,6 +4,13 @@ A set of buttons which merge loading indicators into themselves to bridge the ga
 
 [Check out the demo page](http://lab.hakim.se/ladda/).
 
+## Todo
+
+Progress bar instead of spinners
+- full space
+- thin lines (i.e youtube preload bar)
+- see: http://jsfiddle.net/zRBxR/ (from http://stackoverflow.com/questions/15019381/using-jquery-javascript-to-turn-a-button-into-a-progress-bar)
+
 
 ## Instructions
 
